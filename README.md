@@ -32,4 +32,6 @@ The objective of this project is to analyze Global Superstore sales data and ide
 
 ## Dashboard Demo
 
+🎥 [Watch Dashboard Demo](Screen%20Recording%202026-10-01%20122115.mp4)
+
 

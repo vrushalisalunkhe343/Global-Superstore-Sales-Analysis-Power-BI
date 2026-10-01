@@ -25,3 +25,6 @@ The dashboard provides an interactive view of key sales and business performance
 ## Project Objective
 
 The objective of this project is to analyze Global Superstore sales data and identify trends and patterns across different categories, regions, products, and business metrics.
+
+## Dashboard Preview
+![Global Superstore Dashboard](Dashboard_Screenshot.png)

@@ -28,4 +28,4 @@ The objective of this project is to analyze Global Superstore sales data and ide
 
 ## Dashboard Preview
 
-![Global Superstore Dashboard]([Dashboard_Screenshot.png](https://github.com/vrushalisalunkhe343/Global-Superstore-Sales-Analysis-Power-BI/blob/main/Screenshot%202026-10-01%20001358.png))
+![Global Superstore Dashboard](Screenshot%202026-10-01%20001358.png)
